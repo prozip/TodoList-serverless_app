@@ -34,6 +34,6 @@ def on_closing():
 if __name__=='__main__':
 
     api = Api()
-    window = webview.create_window('Todo List', 'frontend/index.html', js_api=api, min_size=(1050,650))
+    window = webview.create_window('Todo List', './frontend/index.html', js_api=api, min_size=(1050,650))
     window.closing += on_closing
     webview.start(backend, window, debug=True)
