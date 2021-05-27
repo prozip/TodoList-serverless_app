@@ -33,7 +33,13 @@ def on_closing():
 
 if __name__=='__main__':
 
+
     api = Api()
     window = webview.create_window('Todo List', './frontend/index.html', js_api=api, min_size=(1050,650), height=650, width=1050)
     window.closing += on_closing
-    webview.start(backend, window, debug=True)
+
+    # webview2 version
+    webview.start(backend, window)
+
+    # chromium verison
+    # webview.start(backend, window, gui='cef')
