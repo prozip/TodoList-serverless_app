@@ -1,6 +1,6 @@
 from backend import main
 import webview
-from db import myDB
+from backend.db import myDB
 
 class Api:
     def __init__(self):

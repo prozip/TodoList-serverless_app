@@ -1,4 +1,4 @@
-from db import myDB
+from backend.db import myDB
 
 def fetchInit(window):
     # window.evaluate_js("exportData()")
