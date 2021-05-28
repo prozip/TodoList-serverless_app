@@ -4,7 +4,9 @@
 
 ### ScreenShot:
 
-![Linux](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png)
+| Windows                                                      | Linux                                                        | Macosx                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Windows](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png) | ![Linux](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png) | ![](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png) |
 
 
 
