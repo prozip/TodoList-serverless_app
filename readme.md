@@ -2,6 +2,12 @@
 
 #### The cross-platform todo app is written in Python3 and use sqlite3 as database. Available for Windows, Linux and MacOS
 
+### ScreenShot:
+
+![https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png]()
+
+
+
 
 
 ### Features:
