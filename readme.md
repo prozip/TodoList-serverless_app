@@ -6,7 +6,7 @@
 
 | Windows                                                      | Linux                                                        | Macosx                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Windows](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png) | ![Linux](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png) | ![](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png) |
+| ![Windows](https://github.com/prozip/TodoList-serverless_app/raw/master/image/win_test.png) | ![Linux](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png) | ![](https://github.com/prozip/TodoList-serverless_app/raw/master/image/macosx_test.png) |
 
 
 
