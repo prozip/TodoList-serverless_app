@@ -28,13 +28,13 @@
 
 ### Run from source code:
 
-1. Getup Git, Python3 (<=3.8), webview2 runtime (if use), cefpython3 module (if use)
+1. Setup Git, Python3 (<=3.8), webview2 runtime (if use), cefpython3 module (if use)
 
-2. Clone source: git clone https://github.com/prozip/TodoList-serverless_app/
+2. Clone source: `git clone https://github.com/prozip/TodoList-serverless_app/`
 
-3. Install requiments: **pip install** -r **requirements**.**txt**
+3. Install requiments: `**pip install** -r **requirements**.**txt**`
 
-4. Run with: python start.py
+4. Run with: `python start.py`
 
    
 
