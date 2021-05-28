@@ -24,7 +24,7 @@
 
 ### Download:
 
-- Windows version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/windows/todo.exe) (If no webview found, then mshtml is used)
+- Windows version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/windows/todo.exe) (If no webview found  [≤ win7], then mshtml is used)
 
 - Windows chromium embed version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/windows/todo_chromium.exe) (Not recommended)
 
@@ -36,11 +36,11 @@
 
 ### Run from source code:
 
-1. Setup Git, Python3 (<=3.8), webview2 runtime (if use), cefpython3 module (if use)
+1. Setup [Git](https://git-scm.com/), Python 3 [≤3.7], [webview2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) runtime (if use), [cefpython3](https://pypi.org/project/cefpython3/) module (if use)
 
 2. Clone source: `git clone https://github.com/prozip/TodoList-serverless_app/`
 
-3. Install requiments: `pip install -r requirements.txt`
+3. Install requirements: `pip install -r requirements.txt`
 
 4. Run with: `python src/start.py`
 
@@ -48,7 +48,7 @@
 
 ### How to build ?
 
- Check out PyInstaller
+ Check out PyInstaller or py2app
 
 
 
@@ -56,7 +56,7 @@
 
 ### Work flow:
 
-![app_flow](https://github.com/prozip/TodoList-serverless_app/blob/master/image/app_flow.png)
+![app_flow](https://github.com/prozip/TodoList-serverless_app/raw/master/image/app_flow.png)
 
 
 
