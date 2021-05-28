@@ -20,7 +20,7 @@
 
 - Windows chromium embed version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/windows/todo_chromium.exe) (Not recommended)
 
-- Linux version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/linux [Debian based]/todo) (WebKit rendering)
+- Linux version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/linux/todo) (WebKit rendering)
 
 - MacOS version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/macosx/todo) (WebKit rendering)
 
