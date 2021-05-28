@@ -4,7 +4,7 @@
 
 ### ScreenShot:
 
-![https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png]()
+![Linux](https://github.com/prozip/TodoList-serverless_app/raw/master/image/linux_test.png)
 
 
 
