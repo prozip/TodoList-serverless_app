@@ -12,6 +12,8 @@
 
 
 
+
+
 ### Download: 
 
 - Windows version get [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/windows/todo.exe) (If no webview found, then mshtml is used)
@@ -23,7 +25,7 @@
 
 
 
-#### Run from source code:
+### Run from source code:
 
 1. Getup Git, Python3 (<=3.8), webview2 runtime (if use), cefpython3 module (if use)
 2. Clone source:  `git clone https://github.com/prozip/TodoList-serverless_app/`
@@ -34,7 +36,7 @@
 
 
 
-#### How to build ? 
+### How to build ? 
 
 ​	Check out PyInstaller
 
