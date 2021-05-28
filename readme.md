@@ -32,7 +32,7 @@
 
 2. Clone source: `git clone https://github.com/prozip/TodoList-serverless_app/`
 
-3. Install requiments: `**pip install** -r **requirements**.**txt**`
+3. Install requiments: `pip install -r requirements.txt`
 
 4. Run with: `python src/start.py`
 
