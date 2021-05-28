@@ -16,7 +16,7 @@
 
 - Python as BackEnd, Html/CSS/JS as FrontEnd
 
-- Small build size:  6.68MB (Windows version)
+- Small build size:  7.8MB (Windows version)
 
 - Available on any system (even without modern webview runtime - Ex: Win7 support)
 
@@ -26,7 +26,7 @@
 
 - Windows version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/windows/todo.exe) (If no webview found  [≤ win7], then mshtml is used)
 
-- Windows chromium embed version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/windows/todo_chromium.exe) (Not recommended)
+- Windows chromium embed version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/windows/todo_chromium.exe) (Just for testing, Not recommended)
 
 - Linux version [here](https://github.com/prozip/TodoList-serverless_app/raw/master/build/linux/todo) (WebKit rendering)
 
@@ -48,7 +48,7 @@
 
 ### How to build ?
 
- Check out PyInstaller or py2app
+ Check out [PyInstaller](https://www.pyinstaller.org/) or [py2app](https://py2app.readthedocs.io/en/latest/)
 
 
 

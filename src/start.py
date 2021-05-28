@@ -39,7 +39,7 @@ if __name__=='__main__':
     window.closing += on_closing
 
     # webview version
-    webview.start(backend, window, debug=True)
+    webview.start(backend, window)
 
     # chromium verison
     # webview.start(backend, window, gui='cef')
