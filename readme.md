@@ -16,7 +16,7 @@
 
 - Python as BackEnd, Html/CSS/JS as FrontEnd
 
-- Small build size: 7.8 MB
+- Small build size:  6.68MB (Windows version)
 
 - Available on any system (even without modern webview runtime - Ex: Win7 support)
 
