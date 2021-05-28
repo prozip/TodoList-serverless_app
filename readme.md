@@ -34,7 +34,7 @@
 
 3. Install requiments: `**pip install** -r **requirements**.**txt**`
 
-4. Run with: `python start.py`
+4. Run with: `python src/start.py`
 
    
 
